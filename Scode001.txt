@@ -1,2 +1,4 @@
 #!/bin/bash
 echo "Github Using Smart Git"
+echo "Github 1st line for Smart git testing"
+echo "Github 2nd line for Smart git testing"
